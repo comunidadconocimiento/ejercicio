@@ -1,1 +1,1 @@
-Hola mundo
+Informacion mas detallada
